@@ -1,0 +1,308 @@
+mkdir game
+cd game
+mkdir 00
+cd 00
+mkdir 00
+cd 00
+mkdir 00
+mkdir 01
+mkdir 02
+mkdir 03
+mkdir 04
+mkdir 05
+mkdir 06
+mkdir 07
+mkdir 08
+mkdir 09
+mkdir 10
+mkdir 11
+mkdir 12
+mkdir 13
+mkdir 14
+mkdir 15
+mkdir 16
+mkdir 17
+mkdir 18
+mkdir 19
+mkdir 20
+mkdir 21
+mkdir 22
+mkdir 23
+mkdir 24
+mkdir 25
+mkdir 26
+mkdir 27
+mkdir 28
+mkdir 29
+mkdir 30
+mkdir 31
+mkdir 32
+mkdir 33
+mkdir 34
+mkdir 35
+mkdir 36
+mkdir 37
+mkdir 38
+mkdir 39
+mkdir 40
+mkdir 41
+mkdir 42
+mkdir 43
+mkdir 44
+mkdir 45
+mkdir 46
+mkdir 47
+mkdir 48
+mkdir 49
+mkdir 50
+mkdir 51
+mkdir 52
+mkdir 53
+mkdir 54
+mkdir 55
+mkdir 56
+mkdir 57
+mkdir 58
+mkdir 59
+mkdir 60
+mkdir 61
+mkdir 62
+mkdir 63
+mkdir 64
+mkdir 65
+mkdir 66
+mkdir 67
+mkdir 68
+mkdir 69
+mkdir 70
+mkdir 71
+mkdir 72
+mkdir 73
+mkdir 74
+mkdir 75
+mkdir 76
+mkdir 77
+mkdir 78
+mkdir 79
+mkdir 80
+mkdir 81
+mkdir 82
+mkdir 83
+mkdir 84
+mkdir 85
+mkdir 86
+mkdir 87
+mkdir 88
+mkdir 89
+mkdir 90
+mkdir 91
+mkdir 92
+mkdir 93
+mkdir 94
+mkdir 95
+mkdir 96
+mkdir 97
+mkdir 98
+mkdir 99
+cd ..
+cp -r 00 00
+cp -r 00 01
+cp -r 00 02
+cp -r 00 03
+cp -r 00 04
+cp -r 00 05
+cp -r 00 06
+cp -r 00 07
+cp -r 00 08
+cp -r 00 09
+cp -r 00 10
+cp -r 00 11
+cp -r 00 12
+cp -r 00 13
+cp -r 00 14
+cp -r 00 15
+cp -r 00 16
+cp -r 00 17
+cp -r 00 18
+cp -r 00 19
+cp -r 00 20
+cp -r 00 21
+cp -r 00 22
+cp -r 00 23
+cp -r 00 24
+cp -r 00 25
+cp -r 00 26
+cp -r 00 27
+cp -r 00 28
+cp -r 00 29
+cp -r 00 30
+cp -r 00 31
+cp -r 00 32
+cp -r 00 33
+cp -r 00 34
+cp -r 00 35
+cp -r 00 36
+cp -r 00 37
+cp -r 00 38
+cp -r 00 39
+cp -r 00 40
+cp -r 00 41
+cp -r 00 42
+cp -r 00 43
+cp -r 00 44
+cp -r 00 45
+cp -r 00 46
+cp -r 00 47
+cp -r 00 48
+cp -r 00 49
+cp -r 00 50
+cp -r 00 51
+cp -r 00 52
+cp -r 00 53
+cp -r 00 54
+cp -r 00 55
+cp -r 00 56
+cp -r 00 57
+cp -r 00 58
+cp -r 00 59
+cp -r 00 60
+cp -r 00 61
+cp -r 00 62
+cp -r 00 63
+cp -r 00 64
+cp -r 00 65
+cp -r 00 66
+cp -r 00 67
+cp -r 00 68
+cp -r 00 69
+cp -r 00 70
+cp -r 00 71
+cp -r 00 72
+cp -r 00 73
+cp -r 00 74
+cp -r 00 75
+cp -r 00 76
+cp -r 00 77
+cp -r 00 78
+cp -r 00 79
+cp -r 00 80
+cp -r 00 81
+cp -r 00 82
+cp -r 00 83
+cp -r 00 84
+cp -r 00 85
+cp -r 00 86
+cp -r 00 87
+cp -r 00 88
+cp -r 00 89
+cp -r 00 90
+cp -r 00 91
+cp -r 00 92
+cp -r 00 93
+cp -r 00 94
+cp -r 00 95
+cp -r 00 96
+cp -r 00 97
+cp -r 00 98
+cp -r 00 99
+cd ..
+cp -r 00 00
+cp -r 00 01
+cp -r 00 02
+cp -r 00 03
+cp -r 00 04
+cp -r 00 05
+cp -r 00 06
+cp -r 00 07
+cp -r 00 08
+cp -r 00 09
+cp -r 00 10
+cp -r 00 11
+cp -r 00 12
+cp -r 00 13
+cp -r 00 14
+cp -r 00 15
+cp -r 00 16
+cp -r 00 17
+cp -r 00 18
+cp -r 00 19
+cp -r 00 20
+cp -r 00 21
+cp -r 00 22
+cp -r 00 23
+cp -r 00 24
+cp -r 00 25
+cp -r 00 26
+cp -r 00 27
+cp -r 00 28
+cp -r 00 29
+cp -r 00 30
+cp -r 00 31
+cp -r 00 32
+cp -r 00 33
+cp -r 00 34
+cp -r 00 35
+cp -r 00 36
+cp -r 00 37
+cp -r 00 38
+cp -r 00 39
+cp -r 00 40
+cp -r 00 41
+cp -r 00 42
+cp -r 00 43
+cp -r 00 44
+cp -r 00 45
+cp -r 00 46
+cp -r 00 47
+cp -r 00 48
+cp -r 00 49
+cp -r 00 50
+cp -r 00 51
+cp -r 00 52
+cp -r 00 53
+cp -r 00 54
+cp -r 00 55
+cp -r 00 56
+cp -r 00 57
+cp -r 00 58
+cp -r 00 59
+cp -r 00 60
+cp -r 00 61
+cp -r 00 62
+cp -r 00 63
+cp -r 00 64
+cp -r 00 65
+cp -r 00 66
+cp -r 00 67
+cp -r 00 68
+cp -r 00 69
+cp -r 00 70
+cp -r 00 71
+cp -r 00 72
+cp -r 00 73
+cp -r 00 74
+cp -r 00 75
+cp -r 00 76
+cp -r 00 77
+cp -r 00 78
+cp -r 00 79
+cp -r 00 80
+cp -r 00 81
+cp -r 00 82
+cp -r 00 83
+cp -r 00 84
+cp -r 00 85
+cp -r 00 86
+cp -r 00 87
+cp -r 00 88
+cp -r 00 89
+cp -r 00 90
+cp -r 00 91
+cp -r 00 92
+cp -r 00 93
+cp -r 00 94
+cp -r 00 95
+cp -r 00 96
+cp -r 00 97
+cp -r 00 98
+cp -r 00 99
