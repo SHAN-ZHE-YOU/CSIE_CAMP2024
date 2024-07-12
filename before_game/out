@@ -1,3 +1,4 @@
+# lock
 mv _1.png password/20/36/88
 mv _2.png password/10/11/88
 mv _3.png password/13/35/68
@@ -7,6 +8,7 @@ mv _6.png password/49/48/33
 mv _7.png password/20/24/60
 mv _8.png password/19/24/47
 
+# unlock
 mv password/20/36/88/_1.png .
 mv password/10/11/88/_2.png .
 mv password/13/35/68/_3.png .
